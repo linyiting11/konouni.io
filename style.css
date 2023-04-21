@@ -544,6 +544,10 @@
 		display:flex;
 		margin: 1rem 1rem;
 	  }
+	
+	  .button-box{
+		display: none;
+	}
 
 	  .skill-list1{
 		width: 100%;
